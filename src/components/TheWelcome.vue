@@ -41,11 +41,3 @@ import DiscordIcon from './icons/DiscordIcon.vue'
   </WelcomeItem>
 
 </template>
-
-<!-- This is the presentation video for this project. It contains the project's background, explanations and demonstrations.
-วิดิโอนี้เป็นวิดิโออธิบายเกี่ยวกับจุดประสงค์ คุณสมบัติ และหลักการทำงานต่างๆของโครงงานนี้
-This project is entirely open source. Yes, this website is also open source. You can find the source code and schematics on Github. The code is licensed with GPL v2.0 and MIT.
-โครงงานนี้เป็นโครงงานที่โอเพนซอร์ส สามารถดู Source Code ได้บน Github โครงงานนี้ใช้ใบอนุญาตประเภท GPL v2.0 และ MIT
-Join this Discord server to see the Discord bot in action.
-เข้าร่วมเซิร์ฟเวอร์ดิสคอร์ดเพื่อดูการใช้งานของบอทแจ้งเตือนทางดิสคอร์ด -->
-
