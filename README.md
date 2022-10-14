@@ -1,3 +1,5 @@
+![vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 # CVBOX-WEB
 Website for Suratthani School CVBOX Project built with Vue.js
